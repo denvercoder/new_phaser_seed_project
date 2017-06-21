@@ -1,4 +1,4 @@
-
+//This should be the starting point for all new games.
 var game = new Phaser.Game(640, 360, Phaser.AUTO);
 
 var GameState = {
